@@ -8,5 +8,6 @@
         Width="800" Height="300"
         WindowStartupLocation="CenterScreen">
     <TextBlock Text="Moje pierwsze okno, zbudowane własną ręką."
-               FontSize="32" />
+               FontSize="32"
+               FontWeight="Bold" />
 </Window>

@@ -7,5 +7,5 @@
         Title="Okno Szkaplewicza"
         Width="800" Height="300"
         WindowStartupLocation="CenterScreen">
-    Welcome to Avalonia!
+    Moje pierwsze okno, zbudowane własną ręką.
 </Window>

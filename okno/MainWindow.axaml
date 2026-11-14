@@ -7,5 +7,5 @@
         Title="Okno Szkaplewicza"
         Width="800" Height="300"
         WindowStartupLocation="CenterScreen">
-    Moje pierwsze okno, zbudowane własną ręką.
+    <TextBlock Text="Moje pierwsze okno, zbudowane własną ręką." />
 </Window>
